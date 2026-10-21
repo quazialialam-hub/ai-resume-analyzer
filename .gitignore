@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+.env
+.freebuff/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
